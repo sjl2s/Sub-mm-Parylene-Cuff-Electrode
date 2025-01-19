@@ -1,0 +1,74 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: Parylene C Cuff Electrode for Sub-mm Diameter Nerves
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Brianna
+    family-names: Thielen
+    name-suffix: PhD
+    affiliation: >-
+      Alfred E. Mann School of Biomedical Engineering,
+      University of Southern California, Los Angeles, CA,
+      USA
+    orcid: 'https://orcid.org/0000-0002-1278-9411'
+  - given-names: Alberto
+    family-names: Esteban Linares
+    name-suffix: PhD
+    affiliation: >-
+      Alfred E. Mann School of Biomedical Engineering,
+      University of Southern California, Los Angeles, CA,
+      USA
+    orcid: 'https://orcid.org/0000-0002-8637-2977'
+  - given-names: Quentin
+    family-names: Rezard
+    name-suffix: PhD
+    affiliation: >-
+      Alfred E. Mann School of Biomedical Engineering,
+      University of Southern California, Los Angeles, CA,
+      USA
+  - given-names: MaX
+    family-names: Li
+    affiliation: >-
+      Alfred E. Mann School of Biomedical Engineering,
+      University of Southern California, Los Angeles, CA,
+      USA
+    orcid: 'https://orcid.org/0009-0007-3448-0531'
+  - given-names: Paritosh
+    family-names: Rustogi
+    name-suffix: PhD
+    affiliation: >-
+      Alfred E. Mann School of Biomedical Engineering,
+      University of Southern California, Los Angeles, CA,
+      USA
+    orcid: 'https://orcid.org/0000-0002-8918-8788'
+  - given-names: Ellis
+    family-names: Meng
+    name-suffix: PhD
+    email: ellis.meng@usc.edu
+    affiliation: >-
+      Alfred E. Mann School of Biomedical Engineering,
+      University of Southern California, Los Angeles, CA,
+      USA
+    orcid: 'https://orcid.org/0000-0003-0981-9197'
+url: 'https://sites.usc.edu/carss/'
+abstract: >-
+  This repository describes a polymer nerve cuff designed
+  for sub-mm diameter nerve branches, microfabricated from
+  thin-film Parylene C and platinum. Files include CAD,
+  fabrication protocols and masks, and testing protocols.
+  They also includ the designs for a placement tool to allow
+  simple application of the cuff to a nerve during
+  laparotomy.
+keywords:
+  - nerve cuff
+  - thin-film
+  - neural interface
+  - Parylene C
+license: CC-BY-4.0
+version: '1.0'
+date-released: '2025-01-01'
