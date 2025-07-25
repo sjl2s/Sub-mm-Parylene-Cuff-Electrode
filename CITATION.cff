@@ -12,7 +12,7 @@ authors:
     family-names: Thielen
     name-suffix: PhD
     affiliation: >-
-      Alfred E. Mann School of Biomedical Engineering,
+      Alfred E. Mann Department of Biomedical Engineering,
       University of Southern California, Los Angeles, CA,
       USA
     orcid: 'https://orcid.org/0000-0002-1278-9411'
@@ -20,7 +20,7 @@ authors:
     family-names: Esteban Linares
     name-suffix: PhD
     affiliation: >-
-      Alfred E. Mann School of Biomedical Engineering,
+      Alfred E. Mann Department of Biomedical Engineering,
       University of Southern California, Los Angeles, CA,
       USA
     orcid: 'https://orcid.org/0000-0002-8637-2977'
@@ -28,13 +28,13 @@ authors:
     family-names: Rezard
     name-suffix: PhD
     affiliation: >-
-      Alfred E. Mann School of Biomedical Engineering,
+      Alfred E. Mann Department of Biomedical Engineering,
       University of Southern California, Los Angeles, CA,
       USA
   - given-names: Max
     family-names: Li
     affiliation: >-
-      Alfred E. Mann School of Biomedical Engineering,
+      Alfred E. Mann Department of Biomedical Engineering,
       University of Southern California, Los Angeles, CA,
       USA
     orcid: 'https://orcid.org/0009-0007-3448-0531'
@@ -42,7 +42,7 @@ authors:
     family-names: Rustogi
     name-suffix: PhD
     affiliation: >-
-      Alfred E. Mann School of Biomedical Engineering,
+      Alfred E. Mann Department of Biomedical Engineering,
       University of Southern California, Los Angeles, CA,
       USA
     orcid: 'https://orcid.org/0000-0002-8918-8788'
@@ -51,7 +51,7 @@ authors:
     name-suffix: PhD
     email: ellis.meng@usc.edu
     affiliation: >-
-      Alfred E. Mann School of Biomedical Engineering,
+      Alfred E. Mann Department of Biomedical Engineering,
       University of Southern California, Los Angeles, CA,
       USA
     orcid: 'https://orcid.org/0000-0003-0981-9197'
